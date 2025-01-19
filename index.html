@@ -1,12 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello SE66</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>Hello SE66</h1>
-    <p className="mt-2 text-xl">ยินดีต้อนรับสู่ portfolio ของฉัน</p>
+  <div class="portfolio">
+    <div class="sidebar">
+      <ul>
+        <li><a href="#profile">Profile</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#education">Education</a></li>
+      </ul>
+    </div>
+
+    <div class="main-content">
+      <div id="profile" class="section profile-section">
+        <div class="profile-header">
+          <img src="avatar.png" alt="Avatar" class="profile-avatar">
+          <h1>Waralee Sathung</h1>
+          <p>
+            My name is Waralee Sathung, a student at University of Phayao. I am seeking 
+            opportunities to gain experience as a Front-end Developer, Project Manager, or other software-related fields.
+          </p>
+        </div>
+        <div class="contact-buttons">
+          <a href="https://www.facebook.com/profile.php?id=100024735470504&mibextid=ZbWKwL" class="button">Facebook</a>
+          <a href="mailto:66026123@up.ac.th" class="button">Gmail</a>
+          <a href="https://github.com/66026123" class="button">Github</a>
+          <a href="#" class="button">Fastwork</a>
+        </div>
+      </div>
+
+      <div id="skills" class="section">
+        <h2>Skills</h2>
+        <ul>
+          <li>HTML, CSS, JavaScript</li>
+          <li>React, Next.js</li>
+          <li>Version Control: Git & GitHub</li>
+          <li>UI/UX Design (Figma)</li>
+        </ul>
+      </div>
+
+      <div id="projects" class="section">
+        <h2>Projects</h2>
+        <ul>
+          <li>
+            <strong>Personal Portfolio Website:</strong> A responsive personal website built with HTML, CSS, and JavaScript.
+          </li>
+        </ul>
+      </div>
+
+      <div id="education" class="section">
+        <h2>Education</h2>
+        <p>
+          <strong>Bachelor of Software Engineering</strong><br>
+          University of Phayao<br>
+          Expected Graduation: 2026
+        </p>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
