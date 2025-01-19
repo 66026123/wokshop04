@@ -1,0 +1,71 @@
+[33mcommit 1ab716c0b4048a53690e14a8584d9e58dadc2307[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 16:07:46 2025 +0700
+
+    Rename image.png to avatar.png
+
+[33mcommit 99aa86eda6787367619a2c1fd5ef2d4becbcb547[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:59:39 2025 +0700
+
+    Update index.html to fix avatar display issue
+
+[33mcommit aee09823bc6c66f697c55694040314a8fdb17c5e[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:55:29 2025 +0700
+
+    Update index.html to fix avatar display issue
+
+[33mcommit c8921f57112ab7f298a6898a6b36f3e1cbe1905c[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:38:46 2025 +0700
+
+    เพิ่มไฟล์ image.png
+
+[33mcommit f2f877b908991ab00e0f2b117ed6f1b4050572ab[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:32:29 2025 +0700
+
+    เพิ่มไฟล์ styles.css
+
+[33mcommit e79e36cd6da53f501b1f197546a2bd062989cdee[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:27:33 2025 +0700
+
+    เพิ่มไฟล์ styles.css
+
+[33mcommit 8d82a42fe60fa79025cbe8629c399092620b812c[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:24:45 2025 +0700
+
+    เพิ่มไฟล์ styles.css
+
+[33mcommit 3903ec5afc6fc4d3353a70dd75567e2cadad58b8[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:20:33 2025 +0700
+
+    แก้ไขไฟล์ index.html
+
+[33mcommit 7e23a31b69036ed981bfc4dd747aea174715baf6[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 15:07:47 2025 +0700
+
+    แก้ไขไฟล์ index.html
+
+[33mcommit c45bd18f42d4e24fc50ff6da314dac117e825d8d[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 14:53:01 2025 +0700
+
+    Add index.html
+
+[33mcommit fe75dcd8cef338a9cfc271e187f32e6696490975[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 14:15:24 2025 +0700
+
+    test
+
+[33mcommit 5ab2385491d51a88b17f33e62092f25da2940327[m
+Author: 66026123 <66026123@up.ac.th>
+Date:   Sun Jan 19 13:58:11 2025 +0700
+
+    Initial commit
